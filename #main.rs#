@@ -1,0 +1,19 @@
+fn main() {
+    let mut a =42;
+    a = a+ 1;
+    println!("{a}");
+
+    let b :i8 = 127;
+    let c :i32 =127
+    println!("{b}")
+
+}
+
+
+
+
+
+
+
+
+  eee
