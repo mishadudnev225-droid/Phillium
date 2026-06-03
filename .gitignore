@@ -2,3 +2,9 @@
 **/*.rs.bk
 .idea/
 *.iml
+/PhilliumWebserver/PWSB
+/PhilliumWebserver/PWSB.exe
+/PhilliumBrowser/PhilliumBrowser
+/PhilliumBrowser/PhilliumBrowser.exe
+/PhilliumCompiler/PhilliumCompiler
+/PhilliumCompiler/PhilliumCompiler.exe
